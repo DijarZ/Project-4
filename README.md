@@ -29,7 +29,7 @@ Setup
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/DijarZ/Project-4.git,
+   git clone https://github.com/DijarZ/Project-4.git ,  
    cd Project-4
 
 2. Install Dependencies:
@@ -41,7 +41,7 @@ Setup
    DATABASE_NAME="\*\*\*"  
    DATABASE_URL="\*\*\*"
 
-EMAIL_ADMIN="\*\*\*"
+EMAIL_ADMIN="\*\*\*"  
 PASS_ADMIN="\*\*\*"
 
 these \*\*\* you can replace with your data.
