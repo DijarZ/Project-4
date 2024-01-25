@@ -50,8 +50,8 @@ these \*\*\* you can replace with your data.
 
 npx sequelize-cli db:migrate
 
-5.Run the App
-npm start
+5.Run the App  
+ npm start
 
 Access the application at http://localhost:3000.
 
