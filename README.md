@@ -56,6 +56,6 @@ Access the application at http://localhost:3000.
 
 ### API Testing
 
-To test the API and explore its endpoints, you can use the Postman collection provided:
+To test the API and explore its endpoints, you can use the Postman collection:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/30404220-dd3b5a1b-0262-40f0-881f-c8daace418ba?access_key=PMAT-01HMW7927TNZEW2EK8NBZHZJ35)
