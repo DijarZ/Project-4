@@ -1,6 +1,7 @@
 # Project-4
 
 Event Management System
+
 Introduction
 Welcome to the Event Management System! This system allows users to create events, register for events, and view event details with registered participants.
 
@@ -28,20 +29,20 @@ Setup
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/DijarZ/Project-4.git
+   git clone https://github.com/DijarZ/Project-4.git,
    cd Project-4
 
 2. Install Dependencies:
    npm install
 
-3. Set Up Environment Variables:
-   DATABASE_USER="\*\*\*"
-   DATABASE_PASSWORD="\*\*\*"
-   DATABASE_NAME="\*\*\*"
+3. Set Up Environment Variables:  
+   DATABASE_USER="\*\*\*"  
+   DATABASE_PASSWORD="\*\*\*"  
+   DATABASE_NAME="\*\*\*"  
    DATABASE_URL="\*\*\*"
 
-   EMAIL_ADMIN="\*\*\*"
-   PASS_ADMIN="\*\*\*"
+EMAIL_ADMIN="\*\*\*"
+PASS_ADMIN="\*\*\*"
 
 these \*\*\* you can replace with your data.
 
@@ -54,7 +55,7 @@ npm start
 
 Access the application at http://localhost:3000.
 
-### API Testing
+**API Testing**
 
 To test the API and explore its endpoints, you can use the Postman collection:
 
